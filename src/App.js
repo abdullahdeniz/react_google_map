@@ -26,12 +26,13 @@ class App extends React.Component {
   }
 }
 
-App.defaultProps = {
-  center: {
-    lat: 48.8588377,
-    lng: 2.27702
-  },
-  zoom: 12
-}
+// App.defaultProps = {
+//   center: {
+//     lat: 48.8588377,
+//     lng: 2.27702
+//   },
+//   zoom: 12
+// }
+
 
 export default App;
